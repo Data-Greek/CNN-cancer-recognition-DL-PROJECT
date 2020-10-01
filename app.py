@@ -66,7 +66,7 @@ st.write(""" Cette interface de prédiction a pour objectif de diagnostiquer le 
 st.write("")
 
 st.write(""" [🟢 - Réalisez un test avec une image de poumons présentant un état sain](https://drive.google.com/uc?export=download&id=1Muzi-Fzf0z4B81Tcpd_5gvDwkQkl40GM)""")
-st.write(""" [🔴 - Réalisez un test avec une image de poumons présentant un état cancéreux](https://drive.google.com/uc?export=download&id=1Muzi-Fzf0z4B81Tcpd_5gvDwkQkl40GM)""")
+st.write(""" [🔴 - Réalisez un test avec une image de poumons présentant un état cancéreux](https://drive.google.com/uc?export=download&id=1Df7eDWDR1hxsTZLGpLYoZbV6BC0uIV8w)""")
          
 xray = st.file_uploader(""" ⬇️ Veuillez insérer votre image de poumons en cliquant sur ''browse files'' ⬇️ """, type=['jpeg', 'jpg', 'png'])
 
