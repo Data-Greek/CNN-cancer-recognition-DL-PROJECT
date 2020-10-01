@@ -61,7 +61,7 @@ st.markdown(html_template, unsafe_allow_html=True)
     
 st.write("")
 
-st.write(""" Cette interface de prédiction à pour objectif de diagnostiquer le cancer du poumon à partir de l'analyse de scanners au rayon X. Elle permet d'identifier les patients atteints par la maladie, avec une **précision de 99%** 🩺. Le modèle de prédiction repose sur un réseaux de neurones à reconnaissance d'image, aussi connue un sous l'appellation de réseaux de neurones convolutifs (CNN). """)
+st.write(""" Cette interface de prédiction a pour objectif de diagnostiquer le cancer du poumon à partir de l'analyse de scanners au rayon X. Elle permet d'identifier les patients atteints par la maladie, avec une **précision de 99%** 🩺. Le modèle de prédiction repose sur un réseau de neurones à reconnaissance d'image, aussi connu sous l'appellation de réseaux de neurones convolutifs (CNN). """)
 
 st.write("")
 
