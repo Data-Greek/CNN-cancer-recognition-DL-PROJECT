@@ -32,5 +32,6 @@ You will find all the technical informations below ⬇️
 
 ## II / SCREENSHOT OF THE DEPLOYED APP
 
+![image](https://user-images.githubusercontent.com/67790918/115118472-900a1e80-9fa3-11eb-9560-98b22c1cc519.png)
 
 ### Enjoy your day ! 😉
